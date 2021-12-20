@@ -1,0 +1,12 @@
+# NOT MCDR server here.
+# Usage:
+# Home
+# |--Minecraft_server
+# |  |--NOT_MCDR_server
+# |  |  |--plugins
+# |  |  |--server
+# |  |  |  |--server.jar
+# 
+#  /home/Minecraft_server/:
+#   - MCDR_server/server
+# 

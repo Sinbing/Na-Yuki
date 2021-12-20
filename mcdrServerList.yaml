@@ -1,0 +1,20 @@
+# MCDR server here.
+# Usage:
+# Home
+# |--Minecraft_server
+# |  |--MCDR_server
+# |  |  |--plugins
+# |  |  |--server
+# |  |  |  |--server.jar
+# 
+#  /home/Minecraft_server/:
+#   - MCDR_server
+#
+/home/Minecraft_server: 
+  - survival
+  - creative
+  - qmirror
+  - minigames
+  - mirror
+  
+  
